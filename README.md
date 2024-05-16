@@ -1,33 +1,35 @@
-# Hi there, I'm Lena 👋
+# 🧙‍♂️🗡️ Lena's Developer Chronicles 🏰✨
 
-## A Passionate Backend Developer & UI/UX Designer from France 🇫🇷
+## 🌟 Greetings, Fellow Adventurer! I'm Lena, the Backend Enchantress & UI/UX Conjurer 🎨🔮
 
-I love to blend the art of design with the science of programming to create beautiful, intuitive digital experiences. With a flair for backend development and a keen eye for design, I'm on a mission to bridge the gap between form and function.
+From the mystical valleys of France, I summon backend beasts and craft designs of legend. My code is my wand, and each line is a spell in the grand saga of software sorcery.
 
-### Languages and Tools 🛠️
+### Skill Grimoire & Enchanted Tools 📚🛠️
 
-- **Programming:** C#, Java, JavaScript, PHP, Kotlin, Swift, Lua
-- **Frontend:** HTML5, CSS3, React, Vue.js, Svelte, Next.js
-- **Backend:** Node.js, Express, .NET, Laravel
-- **Database:** Cassandra, MariaDB, MySQL, Redis
-- **Design:** Figma, Illustrator, Photoshop, XD, Blender
-- **DevOps & Tools:** Docker, Jenkins, Git, Grafana, Heroku
-- **Game Development:** Unreal Engine, Unity
-- **Operating Systems:** Linux
+- **Arcane Scripts:** `C#` ⚔️, `Java` 🏹, `JavaScript` 🌐, `PHP` 📜, `Kotlin` 🍃, `Swift` 🍎, `Lua` 🔥
+- **Frontend Illusions:** `HTML5` 📄, `CSS3` 🎨, `React` ⚛️, `Vue.js` 🖼️, `Svelte` 🌀, `Next.js` 🚀
+- **Backend Alchemy:** `Node.js` 🌳, `Express` 🚂, `.NET` 🖥️, `Laravel` 🏰
+- **Database Divination:** `Cassandra` 🔮, `MariaDB` 🐬, `MySQL` 🐉, `Redis` 💨
+- **Creative Incantations:** `Figma` 📐, `Illustrator` ✏️, `Photoshop` 🖌️, `XD` 🧩, `Blender` 🌀
+- **DevOps Spells:** `Docker` 🐳, `Jenkins` 🛠️, `Git` 🌿, `Grafana` 📊, `Heroku` ☁️
+- **Game Development Quests:** `Unreal Engine` 🎮, `Unity` 🕹️
+- **Operating Systems Mastery:** `Linux` 🐧
 
-### Currently Learning 🌱
+### Current Quests & Magical Studies 📖✨
 
-I'm expanding my horizons by diving deeper into:
-- **React** - To build dynamic user interfaces
-- **Express** - For robust server-side applications
-- **.NET** - To leverage its powerful ecosystem
-- **C#** - Sharpening my object-oriented programming skills
-- **Unreal Engine 5 (UE5)** - Pushing the boundaries of game development
-- **Blender** - Enhancing my 3D modeling and animation capabilities
+In the hallowed halls of the **Elder Academy**, I'm sharpening my skills and preparing for epic battles in the tech realm:
+- **React** - Conjuring dynamic interfaces
+- **Express** - Summoning server-side spirits
+- **.NET** - Deciphering ancient frameworks
+- **C#** - Mastering the spells of structure
+- **Unreal Engine 5 (UE5)** - Crafting worlds beyond imagination
+- **Blender** - Shaping the very fabric of the virtual cosmos
 
 ---
 
-Feel free to connect with me or check out my work!
+🔥 Step into my guild, brave soul, and let us forge digital destinies together!
 
-!Lena's GitHub stats
+![lenaiiie's Stats](https://github-readme-stats.vercel.app/api?username=lenaiiie&theme=jolly&show_icons=true&hide_border=true&count_private=true)
+![lenaiiie's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lenaiiie&theme=jolly&hide_border=true)
+![lenaiiie's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenaiiie&theme=jolly&show_icons=true&hide_border=true&layout=compact)
 
